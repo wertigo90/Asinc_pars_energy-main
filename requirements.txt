@@ -1,0 +1,8 @@
+firefox
+java
+pip install selenium
+pip install BeautifulSoup4
+pip install lxml
+pip install webdriver-manager
+запустить из папки проекта geckodriver
+если запустился ctrl-z и запустить скрипт

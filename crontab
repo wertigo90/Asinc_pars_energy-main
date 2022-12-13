@@ -1,0 +1,1 @@
+*/1 * * * * python3 /selen/Selenium.py >> /var/log/cron.log 2>&1
